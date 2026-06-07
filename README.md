@@ -45,4 +45,4 @@ However, the dataset can be reconstructed from publicly available sources such a
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This repository is licensed under the GNU General Public License v3.0 (GPLv3).
